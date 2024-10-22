@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://github.com/smutharasan/smutharasan/blob/main/Supriya2DBanner.webp)
+
 Passionate full stack cloud app developer with a focus on code-driven storytelling and conveying narratives about corporate app transformations and societal well-being.
 
 Proficient in developing and deploying AWS and Azure cloud-based web applications to solve complex problems, engage users with captivating experiences, and drive business performance. Deployed a 200+ term Glossary report in Power BI, empowering employees under the Linux/Unix department under Shared Services Canada to understand corporate applications and business processes used there better. 
