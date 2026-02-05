@@ -17,11 +17,9 @@ Here are some ideas to get you started:
 
 ![](https://github.com/smutharasan/smutharasan/blob/main/Supriya2DBanner.webp)
 
-Passionate full stack cloud app developer with a focus on code-driven storytelling and conveying narratives about corporate app transformations and societal well-being.
+Full-stack software developer with experience modernizing enterprise systems and building cloud-native applications in regulated environments. Currently developing internal platforms at Ontario Power Generation that replace legacy reporting and low-code tools with scalable, performant web applications. Comfortable across backend APIs, frontend systems, and cloud infrastructure, with a preference for efficient, developer-centric workflows in Linux and the command line.
 
-Proficient in developing and deploying AWS and Azure cloud-based web applications to solve complex problems, engage users with captivating experiences, and drive business performance. Deployed a 200+ term Glossary report in Power BI, empowering employees under the Linux/Unix department under Shared Services Canada to understand corporate applications and business processes used there better. 
-
-Skilled in leveraging cloud services for business driven performance in e-commerce, file management, and social media applications. Strong advocate for women and the visually impaired in tech. Prefers a command line interface environment as a big fan of Vim, Linux, and macOS. Always trying to customize to find the most optimal environment. Interested in devising a better problem-solving method for challenging tasks, and learning new technologies and tools.
+Strong advocate for women and the visually impaired in tech. Prefers a command line interface environment as a big fan of Vim, Linux, and macOS. Always trying to customize to find the most optimal environment. Interested in devising a better problem-solving method for challenging tasks, optimizing public service, and learning new technologies and tools.
 
 ## Check out my portfolio :rocket:
 
